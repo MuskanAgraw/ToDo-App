@@ -1,5 +1,5 @@
-# Build TODO App with Redux and React JS
-This repository contains code for the Todo app with react & redux.
+# TODO App 
+This repository contains code for the ToDo App with react & redux.
 
 View Demo:
 https://to-do-47viq348g-muskans-projects-935c36d3.vercel.app/
